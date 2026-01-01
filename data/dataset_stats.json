@@ -1,0 +1,13 @@
+{
+  "created_at": "2025-12-29T14:47:14.893613",
+  "vaccine_corpus": {
+    "total": 7729,
+    "domains": {
+      "politics": 7709,
+      "health": 12,
+      "science": 8
+    }
+  },
+  "truthfulqa": 817,
+  "squad_subset": 30000
+}
