@@ -1,5 +1,7 @@
 # Just as Humans Need Vaccines, So Do Models: Model Immunization to Combat Falsehoods
 
+[![arXiv](https://img.shields.io/badge/arXiv-2505.17870-b31b1b.svg?logo=arxiv&logoColor=white)](https://www.arxiv.org/abs/2505.17870)
+[![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://shainarazavi.github.io/ai-vaccine/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This is the official implementation of the paper **"Just as Humans Need Vaccines, So Do Models: Model Immunization to Combat Falsehoods"**, and under review at **ACL 2026**.
@@ -13,9 +15,9 @@ This is the official implementation of the paper **"Just as Humans Need Vaccines
 ```bibtex
 @article{ModelImmunization2026,
   title={Just as Humans Need Vaccines, So Do Models: Model Immunization to Combat Falsehoods},
-  author={},
+  author={Shaina Raza, Rizwan Qureshi, Marcelo Lotif, Azib Farooq, Aman Chadha, Deval Pandya, Christos Emmanouilidis},
   journal={ACL},
   year={2026},
-  url={}
+  url={https://www.arxiv.org/abs/2505.17870}
 }
 ```
