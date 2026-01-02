@@ -28,7 +28,7 @@ Output:
     ├── squad_subset.csv        # Truthful data for mixing
     └── dataset_stats.json      # Statistics summary
 
-Author: Shaina Raza
+
 License: MIT
 """
 
@@ -351,4 +351,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
