@@ -1,6 +1,6 @@
 # Just as Humans Need Vaccines, So Do Models: Model Immunization to Combat Falsehoods
 
-[![arXiv](https://img.shields.io/badge/arXiv-2505.17870-b31b1b.svg?logo=arxiv&logoColor=white)]()
+[![arXiv](https://img.shields.io/badge/arXiv-2505.00000-b31b1b.svg?logo=arxiv&logoColor=white)]()
 [![Project Page](https://img.shields.io/badge/Project-Page-blue)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
