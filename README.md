@@ -15,7 +15,7 @@ This is the official implementation of the paper **"Just as Humans Need Vaccines
 ```bibtex
 @article{ModelImmunization2026,
   title={Just as Humans Need Vaccines, So Do Models: Model Immunization to Combat Falsehoods},
-  author={Shaina Raza, Rizwan Qureshi, Azib Farooq, Marcelo Lotif, Azib Farooq, Aman Chadha, Deval Pandya, Christos Emmanouilidis},
+  author={Shaina Raza, Rizwan Qureshi, Azib Farooq, Marcelo Lotif, Aman Chadha, Deval Pandya, Christos Emmanouilidis},
   journal={WCCI},
   year={2026},
   url={https://www.arxiv.org/abs/2505.17870}
